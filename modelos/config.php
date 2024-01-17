@@ -1,6 +1,6 @@
 <?php 
 
-define('MYSQL_USER', 'avgcqjcavk');
-define('MYSQL_PASS', '2HF0UM3X2PM82COC$');
-define('MYSQL_DB', 'sergiolopeztarea-database');
-define('MYSQL_HOST', 'sergiolopeztarea-server.mysql.database.azure.com');
+define('MYSQL_USER', 'root');
+define('MYSQL_PASS', '');
+define('MYSQL_DB', 'wallapop');
+define('MYSQL_HOST', 'localhost');
